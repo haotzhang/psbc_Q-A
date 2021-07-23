@@ -1,0 +1,12 @@
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/controller/AdminController.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/controller/CustomerController.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/util/UUIDUtil.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/PsbcApplication.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/entity/Knowledge.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/service/impl/CustomerServiceImpl.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/service/AdminService.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/dto/KnowledgeDTO.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/mapper/KnowledgeMapper.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/service/impl/AdminServiceImpl.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/service/CustomerService.java
+/Users/zhanghaotian/ideaWorkSpace/psbc/src/main/java/com/example/psbc/vo/KnowledgeVO.java

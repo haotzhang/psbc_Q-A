@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.psbc.PsbcApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.029 s - in com.example.psbc.PsbcApplicationTests
